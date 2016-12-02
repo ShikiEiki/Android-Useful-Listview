@@ -1,2 +1,2 @@
 # Android-Userful-Listview
-An improved listview , support drag down to refresh ,drag up to load more , and item can slide aside to see use more function.
+This project is a multi-functional package for the Android native Listview, supports pull-down refreshes, pull-loads more and swipes left to delete entries
