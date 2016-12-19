@@ -18,8 +18,6 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.frank.demo.R;
-
 /**
  * Created by FH on 2015/12/22.
  */
